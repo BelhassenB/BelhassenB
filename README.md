@@ -1,7 +1,7 @@
 # Hey there ! I’m Belhassen Briki and happy to see you here 👋
 Welcome on board ! <br>
 I'm a Microsoft Power Platform Consultant with a background in digital marketing.I was always passionate about **Web Development**. Currently, I'm on a journey to expand my skills 
-and transition into a web development career.
+into the world of programming.
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,wordpress,googleanalytics)](https://skillicons.dev)
 
