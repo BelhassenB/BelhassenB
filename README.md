@@ -6,7 +6,7 @@ into the world of programming.
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,wordpress,googleanalytics)](https://skillicons.dev)
 
 ## 🔧 Technologies & Tools
-- Javascript ( In progress )
+- Javascript
 - HTML / CSS
 - Git
 - Digital Marketing ( SEO, SEA, Google Analytics, Google Tag Manager)
