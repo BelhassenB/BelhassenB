@@ -10,6 +10,7 @@ into the world of programming.
 - HTML / CSS
 - Git
 - Digital Marketing ( SEO, SEA, Google Analytics, Google Tag Manager)
+- Sharepoint
 - WordPress & Elementor
 - Power Platform ( Power Apps, Power Automate, Power Virtual agent)
 - Dynamics CRM
